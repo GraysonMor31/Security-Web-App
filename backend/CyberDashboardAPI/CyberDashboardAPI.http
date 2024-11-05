@@ -1,6 +1,0 @@
-@CyberDashboardAPI_HostAddress = http://localhost:5029
-
-GET {{CyberDashboardAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
