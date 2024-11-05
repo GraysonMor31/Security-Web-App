@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Python
+*.pyc
+*.venv
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
